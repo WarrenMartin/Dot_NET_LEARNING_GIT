@@ -46,7 +46,7 @@ namespace Properties
             get { return basic; }
             set
             {
-                if ((basic = value) > 0)
+                if ((basic = value) > 0) ;
             }
         }
     }
