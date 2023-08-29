@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day1\ClassBasics\bin\Debug\net7.0\ClassBasics.exe
+C:\Users\marti\source\repos\Day1\ClassBasics\bin\Debug\net7.0\ClassBasics.deps.json
+C:\Users\marti\source\repos\Day1\ClassBasics\bin\Debug\net7.0\ClassBasics.runtimeconfig.json
+C:\Users\marti\source\repos\Day1\ClassBasics\bin\Debug\net7.0\ClassBasics.dll
+C:\Users\marti\source\repos\Day1\ClassBasics\bin\Debug\net7.0\ClassBasics.pdb
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ClassBasics.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ClassBasics.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ClassBasics.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ClassBasics.dll
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\refint\ClassBasics.dll
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ClassBasics.pdb
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ClassBasics.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day1\ClassBasics\obj\Debug\net7.0\ref\ClassBasics.dll
