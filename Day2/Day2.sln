@@ -5,7 +5,13 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{C2C916FE-8CBC-4E2C-A31F-731348B367CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndObjectInitializers", "ConstructorsAndObjectInitializers\ConstructorsAndObjectInitializers.csproj", "{CC098B20-8C85-46F0-8509-8B38C929A10A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorsAndObjectInitializers", "ConstructorsAndObjectInitializers\ConstructorsAndObjectInitializers.csproj", "{CC098B20-8C85-46F0-8509-8B38C929A10A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticMembers", "StaticMembers\StaticMembers.csproj", "{AEFBC622-338A-4CB7-A5B8-0E5F55BAECA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance Example", "Inheritance Example\Inheritance Example.csproj", "{8B06E3CC-C001-406B-ACCD-28453854D449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace_proj name", "namespace_proj name\namespace_proj name.csproj", "{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{CC098B20-8C85-46F0-8509-8B38C929A10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC098B20-8C85-46F0-8509-8B38C929A10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC098B20-8C85-46F0-8509-8B38C929A10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFBC622-338A-4CB7-A5B8-0E5F55BAECA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFBC622-338A-4CB7-A5B8-0E5F55BAECA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFBC622-338A-4CB7-A5B8-0E5F55BAECA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFBC622-338A-4CB7-A5B8-0E5F55BAECA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B06E3CC-C001-406B-ACCD-28453854D449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B06E3CC-C001-406B-ACCD-28453854D449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B06E3CC-C001-406B-ACCD-28453854D449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B06E3CC-C001-406B-ACCD-28453854D449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

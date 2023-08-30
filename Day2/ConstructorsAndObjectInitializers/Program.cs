@@ -4,11 +4,15 @@
     {
         static void Main(string[] args)
         {
-           Class1   obj = new Class1();
-            Console.WriteLine(obj.p1); 
-            Class1 obj2=new Class1(10,20,30);
+           Class1   obj1 = new Class1();
+            obj1.p1 = 10;
+            obj1.p2 = 20;
+            obj1.p3 = 30;
 
-            Console.WriteLine(obj2.p2);
+            // We can also do this as 
+
+            Class1 obj2 = new Class1() { p1 = 10, p2 = 20, p3 = 30 };
+            
             
         }
     }
@@ -26,7 +30,7 @@
             p2 = 2;
             p3 = 3;
         }
-        public Class1(int p1,int p2,int p3)
+        public Class1(int p1=1,int p2 = 2,int p3 = 3)
         {
             this.p1 = p1;
             this.p2 = p2;   
