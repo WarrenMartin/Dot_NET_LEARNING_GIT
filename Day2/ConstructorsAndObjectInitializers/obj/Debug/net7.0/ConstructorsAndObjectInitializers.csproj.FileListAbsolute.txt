@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\bin\Debug\net7.0\ConstructorsAndObjectInitializers.exe
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\bin\Debug\net7.0\ConstructorsAndObjectInitializers.deps.json
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\bin\Debug\net7.0\ConstructorsAndObjectInitializers.runtimeconfig.json
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\bin\Debug\net7.0\ConstructorsAndObjectInitializers.dll
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\bin\Debug\net7.0\ConstructorsAndObjectInitializers.pdb
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ConstructorsAndObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ConstructorsAndObjectInitializers.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ConstructorsAndObjectInitializers.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ConstructorsAndObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ConstructorsAndObjectInitializers.dll
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\refint\ConstructorsAndObjectInitializers.dll
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ConstructorsAndObjectInitializers.pdb
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ConstructorsAndObjectInitializers.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day2\ConstructorsAndObjectInitializers\obj\Debug\net7.0\ref\ConstructorsAndObjectInitializers.dll

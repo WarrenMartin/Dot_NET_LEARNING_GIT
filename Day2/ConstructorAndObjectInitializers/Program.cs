@@ -1,10 +1,10 @@
-﻿namespace ConsoleApp2
+﻿namespace ConstructorAndObjectInitializers
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Word!");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
