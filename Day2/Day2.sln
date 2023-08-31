@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticMembers", "StaticMemb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance Example", "Inheritance Example\Inheritance Example.csproj", "{8B06E3CC-C001-406B-ACCD-28453854D449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace_proj name", "namespace_proj name\namespace_proj name.csproj", "{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "namespace_proj name", "namespace_proj name\namespace_proj name.csproj", "{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAccessSpecifiers", "TestAccessSpecifiers\TestAccessSpecifiers.csproj", "{C326F386-8405-4F2E-B08F-B789436EF62C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C431D087-E1E3-4DCA-8D2F-207AE53A8E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C326F386-8405-4F2E-B08F-B789436EF62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C326F386-8405-4F2E-B08F-B789436EF62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C326F386-8405-4F2E-B08F-B789436EF62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C326F386-8405-4F2E-B08F-B789436EF62C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
