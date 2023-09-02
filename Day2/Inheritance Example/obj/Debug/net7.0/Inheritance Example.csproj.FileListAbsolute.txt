@@ -1,0 +1,18 @@
+C:\Users\marti\source\repos\Day2\Inheritance Example\bin\Debug\net7.0\Inheritance Example.exe
+C:\Users\marti\source\repos\Day2\Inheritance Example\bin\Debug\net7.0\Inheritance Example.deps.json
+C:\Users\marti\source\repos\Day2\Inheritance Example\bin\Debug\net7.0\Inheritance Example.runtimeconfig.json
+C:\Users\marti\source\repos\Day2\Inheritance Example\bin\Debug\net7.0\Inheritance Example.dll
+C:\Users\marti\source\repos\Day2\Inheritance Example\bin\Debug\net7.0\Inheritance Example.pdb
+C:\Users\marti\source\repos\Day2\Inheritance Example\bin\Debug\net7.0\TestAccessSpecifiers.dll
+C:\Users\marti\source\repos\Day2\Inheritance Example\bin\Debug\net7.0\TestAccessSpecifiers.pdb
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.csproj.CopyComplete
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.dll
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\refint\Inheritance Example.dll
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.pdb
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\Inheritance Example.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day2\Inheritance Example\obj\Debug\net7.0\ref\Inheritance Example.dll

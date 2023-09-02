@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\bin\Debug\net7.0\TestAccessSpecifiers.deps.json
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\bin\Debug\net7.0\TestAccessSpecifiers.dll
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\bin\Debug\net7.0\TestAccessSpecifiers.pdb
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.dll
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\refint\TestAccessSpecifiers.dll
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\TestAccessSpecifiers.pdb
+C:\Users\marti\source\repos\Day2\TestAccessSpecifiers\obj\Debug\net7.0\ref\TestAccessSpecifiers.dll

@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day2\Override\bin\Debug\net7.0\Override.exe
+C:\Users\marti\source\repos\Day2\Override\bin\Debug\net7.0\Override.deps.json
+C:\Users\marti\source\repos\Day2\Override\bin\Debug\net7.0\Override.runtimeconfig.json
+C:\Users\marti\source\repos\Day2\Override\bin\Debug\net7.0\Override.dll
+C:\Users\marti\source\repos\Day2\Override\bin\Debug\net7.0\Override.pdb
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\Override.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\Override.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\Override.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\Override.dll
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\refint\Override.dll
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\Override.pdb
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\Override.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day2\Override\obj\Debug\net7.0\ref\Override.dll
