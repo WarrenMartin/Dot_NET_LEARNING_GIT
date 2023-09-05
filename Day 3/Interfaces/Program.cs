@@ -28,12 +28,14 @@
 
         static void Main(string[] args) {
             Class1 o = new Class1();
+           
+            (o as IFileFunctions).Close();
+            (o as IFileFunctions).Delete();
+            (o as IDbFunctions).Delete();
             o.Open();
-            o.Close();
+            
 
-            o.Insert();
-            o.Update();
-            o.Delete();
+           
         
         }
     }
@@ -59,10 +61,7 @@
         {
             Console.WriteLine("display from class1");
         }
-        public void Delete()
-        {
-            Console.WriteLine("delete from class1");
-        }
+        
 
         public void Insert()
         {
@@ -74,30 +73,37 @@
             Console.WriteLine("update from class1");
         }
 
-        void IFileFunctions.Open()
-        {
-            throw new NotImplementedException();
-        }
+        //void IFileFunctions.Open()
+        //{
+        //    throw new NotImplementedException();
+        //}
 
-        void IFileFunctions.Close()
-        {
-            throw new NotImplementedException();
-        }
+        //void IFileFunctions.Close()
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         void IFileFunctions.Delete()
         {
-            throw new NotImplementedException();
+           Console.WriteLine("delete of ifile function");
         }
 
-        //public void Open()
-        //{
-        //    Console.WriteLine("ifile from open");
-        //}
+        public void Open()
+        {
+            Console.WriteLine("ifile from open");
+        }
 
-        //public void Close()
-        //{
-        //    Console.WriteLine("ifile from close");
-        //}
+        public void Close()
+        {
+            Console.WriteLine("ifile from close");
+        }
+
+        
+
+        void IDbFunctions.Delete()
+        {
+            Console.WriteLine("Delete of idb function");
+        }
     }
 
 }

@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\bin\Debug\net7.0\DefaultImplementationwithinterfaces.exe
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\bin\Debug\net7.0\DefaultImplementationwithinterfaces.deps.json
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\bin\Debug\net7.0\DefaultImplementationwithinterfaces.runtimeconfig.json
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\bin\Debug\net7.0\DefaultImplementationwithinterfaces.dll
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\bin\Debug\net7.0\DefaultImplementationwithinterfaces.pdb
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\DefaultImplementationwithinterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\DefaultImplementationwithinterfaces.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\DefaultImplementationwithinterfaces.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\DefaultImplementationwithinterfaces.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\DefaultImplementationwithinterfaces.dll
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\refint\DefaultImplementationwithinterfaces.dll
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\DefaultImplementationwithinterfaces.pdb
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\DefaultImplementationwithinterfaces.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 3\DefaultImplementationwithinterfaces\obj\Debug\net7.0\ref\DefaultImplementationwithinterfaces.dll
