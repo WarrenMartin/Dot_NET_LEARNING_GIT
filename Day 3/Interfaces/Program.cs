@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             // Method 1
             Class1 o = new Class1();
@@ -17,10 +17,24 @@
             o.Insert();
 
             //Method 3
-           // ((IDbFunctions)o).Insert();
+            ((IDbFunctions)o).Insert();
+
+            //method 4
+           // (o as IDbFunctions).
 
 
 
+        }
+
+        static void Main(string[] args) {
+            Class1 o = new Class1();
+            o.Open();
+            o.Close();
+
+            o.Insert();
+            o.Update();
+            o.Delete();
+        
         }
     }
 
@@ -31,7 +45,15 @@
         void Delete();
     }
 
-    public class Class1 : IDbFunctions
+    public interface IFileFunctions
+    {
+        void Open();
+        void Close();
+        void Delete();
+    }
+
+
+    public class Class1 : IDbFunctions, IFileFunctions
     {
         public void Display()
         {
@@ -51,6 +73,31 @@
         {
             Console.WriteLine("update from class1");
         }
+
+        void IFileFunctions.Open()
+        {
+            throw new NotImplementedException();
+        }
+
+        void IFileFunctions.Close()
+        {
+            throw new NotImplementedException();
+        }
+
+        void IFileFunctions.Delete()
+        {
+            throw new NotImplementedException();
+        }
+
+        //public void Open()
+        //{
+        //    Console.WriteLine("ifile from open");
+        //}
+
+        //public void Close()
+        //{
+        //    Console.WriteLine("ifile from close");
+        //}
     }
 
 }
