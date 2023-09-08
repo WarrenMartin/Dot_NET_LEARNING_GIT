@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\bin\Debug\net7.0\ValueTypeRef.exe
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\bin\Debug\net7.0\ValueTypeRef.deps.json
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\bin\Debug\net7.0\ValueTypeRef.runtimeconfig.json
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\bin\Debug\net7.0\ValueTypeRef.dll
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\bin\Debug\net7.0\ValueTypeRef.pdb
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ValueTypeRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ValueTypeRef.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ValueTypeRef.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ValueTypeRef.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ValueTypeRef.dll
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\refint\ValueTypeRef.dll
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ValueTypeRef.pdb
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ValueTypeRef.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 3\ValueTypeRef\obj\Debug\net7.0\ref\ValueTypeRef.dll

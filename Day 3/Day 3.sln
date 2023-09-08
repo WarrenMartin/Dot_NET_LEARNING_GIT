@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{4F2AE020-29E3-4691-9094-A595C7B73237}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultImplementationwithinterfaces", "DefaultImplementationwithinterfaces\DefaultImplementationwithinterfaces.csproj", "{B5599392-57A6-4FB7-9819-A5F68829AAD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultImplementationwithinterfaces", "DefaultImplementationwithinterfaces\DefaultImplementationwithinterfaces.csproj", "{B5599392-57A6-4FB7-9819-A5F68829AAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypeRef", "ValueTypeRef\ValueTypeRef.csproj", "{2D75256F-DCD5-4F14-8F3B-8179BBA17DAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B5599392-57A6-4FB7-9819-A5F68829AAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5599392-57A6-4FB7-9819-A5F68829AAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5599392-57A6-4FB7-9819-A5F68829AAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D75256F-DCD5-4F14-8F3B-8179BBA17DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D75256F-DCD5-4F14-8F3B-8179BBA17DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D75256F-DCD5-4F14-8F3B-8179BBA17DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D75256F-DCD5-4F14-8F3B-8179BBA17DAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
