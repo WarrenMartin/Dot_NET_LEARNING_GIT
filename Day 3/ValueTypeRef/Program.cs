@@ -7,7 +7,7 @@
             int i = 100;
             int j = 200;
            // Swap(ref i, ref j);
-           Init(out i,out j);
+           Init(ref i,ref j);
             Console.WriteLine(i);
             Console.WriteLine(j);
 
@@ -20,13 +20,19 @@
             b = temp;
         }
 
-        static void Init(out int a, out int b) 
+        static void Init(ref int a, ref int b) 
         {
             a = 1000;
             b = 2000;
         }
 
+        static void Print(in int i)
+        {
+            Console.WriteLine(i);
+        }
+
+
     }
 
-    
+
 }

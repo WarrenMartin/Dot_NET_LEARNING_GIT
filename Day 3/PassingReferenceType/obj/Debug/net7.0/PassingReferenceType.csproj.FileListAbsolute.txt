@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\bin\Debug\net7.0\PassingReferenceType.exe
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\bin\Debug\net7.0\PassingReferenceType.deps.json
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\bin\Debug\net7.0\PassingReferenceType.runtimeconfig.json
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\bin\Debug\net7.0\PassingReferenceType.dll
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\bin\Debug\net7.0\PassingReferenceType.pdb
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\PassingReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\PassingReferenceType.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\PassingReferenceType.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\PassingReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\PassingReferenceType.dll
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\refint\PassingReferenceType.dll
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\PassingReferenceType.pdb
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\PassingReferenceType.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 3\PassingReferenceType\obj\Debug\net7.0\ref\PassingReferenceType.dll
