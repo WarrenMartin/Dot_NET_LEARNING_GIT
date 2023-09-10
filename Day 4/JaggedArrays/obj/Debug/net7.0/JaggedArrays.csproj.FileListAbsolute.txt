@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 4\JaggedArrays\bin\Debug\net7.0\JaggedArrays.exe
+C:\Users\marti\source\repos\Day 4\JaggedArrays\bin\Debug\net7.0\JaggedArrays.deps.json
+C:\Users\marti\source\repos\Day 4\JaggedArrays\bin\Debug\net7.0\JaggedArrays.runtimeconfig.json
+C:\Users\marti\source\repos\Day 4\JaggedArrays\bin\Debug\net7.0\JaggedArrays.dll
+C:\Users\marti\source\repos\Day 4\JaggedArrays\bin\Debug\net7.0\JaggedArrays.pdb
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\JaggedArrays.dll
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\refint\JaggedArrays.dll
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\JaggedArrays.pdb
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 4\JaggedArrays\obj\Debug\net7.0\ref\JaggedArrays.dll
