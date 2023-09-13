@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 4\Capacity_Count\bin\Debug\net7.0\Capacity_Count.exe
+C:\Users\marti\source\repos\Day 4\Capacity_Count\bin\Debug\net7.0\Capacity_Count.deps.json
+C:\Users\marti\source\repos\Day 4\Capacity_Count\bin\Debug\net7.0\Capacity_Count.runtimeconfig.json
+C:\Users\marti\source\repos\Day 4\Capacity_Count\bin\Debug\net7.0\Capacity_Count.dll
+C:\Users\marti\source\repos\Day 4\Capacity_Count\bin\Debug\net7.0\Capacity_Count.pdb
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\Capacity_Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\Capacity_Count.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\Capacity_Count.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\Capacity_Count.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\Capacity_Count.dll
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\refint\Capacity_Count.dll
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\Capacity_Count.pdb
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\Capacity_Count.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 4\Capacity_Count\obj\Debug\net7.0\ref\Capacity_Count.dll

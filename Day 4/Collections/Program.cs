@@ -11,8 +11,8 @@ namespace Collections
             objArrayList.Add(true);
             objArrayList.Add(4.234);
 
-            objArrayList.Remove("vikram"); // remove vikram out from here
-            objArrayList.RemoveAt(0); // removeat removes the 0th element 
+            objArrayList.Remove("vikram"); // Remove vikram out from here
+            objArrayList.RemoveAt(0); // RemoveAt removes the 0th element 
 
             Console.WriteLine(objArrayList.Count);
 
@@ -20,6 +20,10 @@ namespace Collections
             {
                 Console.WriteLine(i);
             }
+
+            //objArrayList.AddRange(objArrayList2); // this will add all the items from any Icollection class (Stack,queue,ArrayList etc etc)
+
+
         }
     }
 }
