@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 4\GenericCollection\bin\Debug\net6.0\GenericCollection.exe
+C:\Users\marti\source\repos\Day 4\GenericCollection\bin\Debug\net6.0\GenericCollection.deps.json
+C:\Users\marti\source\repos\Day 4\GenericCollection\bin\Debug\net6.0\GenericCollection.runtimeconfig.json
+C:\Users\marti\source\repos\Day 4\GenericCollection\bin\Debug\net6.0\GenericCollection.dll
+C:\Users\marti\source\repos\Day 4\GenericCollection\bin\Debug\net6.0\GenericCollection.pdb
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\GenericCollection.dll
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\refint\GenericCollection.dll
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\GenericCollection.pdb
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\GenericCollection.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 4\GenericCollection\obj\Debug\net6.0\ref\GenericCollection.dll

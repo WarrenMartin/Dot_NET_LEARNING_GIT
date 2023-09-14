@@ -25,4 +25,4 @@ namespace Capacity_Count
             Console.WriteLine($"Capacity: {capacity}");
         }
     }
-}
+} 

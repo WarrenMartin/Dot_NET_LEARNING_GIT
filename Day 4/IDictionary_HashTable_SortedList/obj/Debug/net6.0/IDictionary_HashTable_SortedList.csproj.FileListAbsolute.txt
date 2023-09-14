@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\bin\Debug\net6.0\IDictionary_HashTable_SortedList.exe
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\bin\Debug\net6.0\IDictionary_HashTable_SortedList.deps.json
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\bin\Debug\net6.0\IDictionary_HashTable_SortedList.runtimeconfig.json
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\bin\Debug\net6.0\IDictionary_HashTable_SortedList.dll
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\bin\Debug\net6.0\IDictionary_HashTable_SortedList.pdb
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\IDictionary_HashTable_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\IDictionary_HashTable_SortedList.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\IDictionary_HashTable_SortedList.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\IDictionary_HashTable_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\IDictionary_HashTable_SortedList.dll
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\refint\IDictionary_HashTable_SortedList.dll
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\IDictionary_HashTable_SortedList.pdb
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\IDictionary_HashTable_SortedList.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 4\IDictionary_HashTable_SortedList\obj\Debug\net6.0\ref\IDictionary_HashTable_SortedList.dll
