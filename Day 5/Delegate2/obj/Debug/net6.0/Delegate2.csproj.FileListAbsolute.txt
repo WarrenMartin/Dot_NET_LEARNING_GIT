@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 5\Delegate2\bin\Debug\net6.0\Delegate2.exe
+C:\Users\marti\source\repos\Day 5\Delegate2\bin\Debug\net6.0\Delegate2.deps.json
+C:\Users\marti\source\repos\Day 5\Delegate2\bin\Debug\net6.0\Delegate2.runtimeconfig.json
+C:\Users\marti\source\repos\Day 5\Delegate2\bin\Debug\net6.0\Delegate2.dll
+C:\Users\marti\source\repos\Day 5\Delegate2\bin\Debug\net6.0\Delegate2.pdb
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\Delegate2.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\Delegate2.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\Delegate2.dll
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\refint\Delegate2.dll
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\Delegate2.pdb
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\Delegate2.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 5\Delegate2\obj\Debug\net6.0\ref\Delegate2.dll

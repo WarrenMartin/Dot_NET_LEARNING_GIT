@@ -25,16 +25,27 @@
             //Display();
         }
 
-        static void Main()
+
+        static void Main2()
         {
             //DelAdd del1Add = new DelAdd(Display);
             //or
             DelAdd Objdeladd = Add;
-            Objdeladd = Subtract;
+            Objdeladd += Subtract;
 
             int ans = Objdeladd(15, 30);
 
             Console.WriteLine(ans);
+
+            // Here in this main 2 objdeladd is pointing to both add and subtract method. But += ( MultiCast Delegate) whn it is caled it can return only one answer. so it will return to the last called method and in this 
+            // case it is subtract.
+
+        }
+
+        //
+        static void Main()
+        {
+            
 
         }
 
