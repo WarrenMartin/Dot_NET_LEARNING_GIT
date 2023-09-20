@@ -1,7 +1,7 @@
 ﻿namespace DelegateClass
 
     /*
-     * Remeber the heriachy 
+     * Remeber the heria chy 
      * Object
      * Delegate
      * MulticastDelegate
@@ -14,7 +14,10 @@
         static void Main(string[] args)
         {
             // This is an Equivanent of +=
-           Delegate objDel= Delegate.Combine(new Del1(Display), new Del1(Show)); 
+           Del1 objDel=(Del1) Delegate.Combine(new Del1(Display), new Del1(Show));
+            objDel();
+
+
            //Delegate.remove // This is the Equvalent of ==
 
 
