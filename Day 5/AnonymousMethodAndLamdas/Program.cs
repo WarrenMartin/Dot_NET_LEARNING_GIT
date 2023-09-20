@@ -1,4 +1,4 @@
-﻿namespace AnonymousMethodAndLamdas
+﻿namespace AnonymousMethodAndLamdas1
 {
     internal class Program
     {
@@ -51,6 +51,40 @@
                 return true;
             return false;
         }
+
+    }
+}
+
+namespace AnonymousMethodAndLamdas
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            // Normal way of writting a delegate
+            Func<int,int> o1 = GetDouble;
+            Console.WriteLine(o1(10));
+
+            // Lets write in anonymous methods
+            Func<int, int> o2 = delegate (int a)
+            {
+                return a * 2;
+            };
+        Console.WriteLine(o2(10));
+
+            // an easy way of writing code using lambda.
+            Func<int,int> o3 = (a) => a * 2;
+
+
+
+        }
+
+
+        static int GetDouble(int a)
+        {
+            return a * 2;
+        }
+      
 
     }
 }
