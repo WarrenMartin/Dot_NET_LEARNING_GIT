@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\marti\source\repos\Day 5\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

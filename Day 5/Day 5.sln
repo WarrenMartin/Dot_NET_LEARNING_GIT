@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateClass", "DelegateCl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActionFuncPredicate", "ActionFuncPredicate\ActionFuncPredicate.csproj", "{D4C66301-FFF6-4D8D-B4D4-D1B2666E577C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethodAndLamdas", "AnonymousMethodAndLamdas\AnonymousMethodAndLamdas.csproj", "{1EAF64F3-EA9F-4FFC-9CE8-252678CB2B31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousMethodAndLamdas", "AnonymousMethodAndLamdas\AnonymousMethodAndLamdas.csproj", "{1EAF64F3-EA9F-4FFC-9CE8-252678CB2B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{921D089E-3246-4A60-AC8F-7040F6F04512}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1EAF64F3-EA9F-4FFC-9CE8-252678CB2B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EAF64F3-EA9F-4FFC-9CE8-252678CB2B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EAF64F3-EA9F-4FFC-9CE8-252678CB2B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921D089E-3246-4A60-AC8F-7040F6F04512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921D089E-3246-4A60-AC8F-7040F6F04512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921D089E-3246-4A60-AC8F-7040F6F04512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921D089E-3246-4A60-AC8F-7040F6F04512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
