@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-            
+            // User Writing this code
+            Class1 objClass1=new Class1();
+            //make invalid p1 delegate reference(Event) defined in class1 refer to our function objClass1_InvalidP1;
+            objClass1.InvalidP1 += objClass1_InvalidP1;
+            objClass1.P1 = 1;
+
+
+        }
+
+        static void objClass1_InvalidP1()
+        {
+            Console.WriteLine("Invalid Event raised -event handling code here");
         }
     }
 
